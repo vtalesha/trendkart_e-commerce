@@ -1,0 +1,14 @@
+# Git ignore file 
+notepad .gitignore
+
+.env
+backend/.env
+trendkart/backend/.env
+
+# Ignore dependencies
+node_modules/
+
+# Ignore build and logs
+build/
+dist/
+logs/
